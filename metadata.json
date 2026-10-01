@@ -1,0 +1,6 @@
+{
+  "name": "República Liberal-Democrática (1945–1964)",
+  "description": "Painel didático interativo para o estudo da Historiografia Brasileira no Ensino Médio, com dados de economia, política, sociedade e gráficos de inflação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
